@@ -1,1 +1,1 @@
-
+<h1 align="center">FRONT-END LANDING PAGE OF SHOES WEBSITE</h1>
